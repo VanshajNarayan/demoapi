@@ -1,0 +1,23 @@
+.allData{
+  border: 2px solid red;
+  max-width: 70rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.allData .cards{
+  margin: 1rem;
+  border: 2px solid blue;
+  width: 20rem;
+  max-width: 15rem;
+  height: 20rem;
+}
+
+.allData .cards h3{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
